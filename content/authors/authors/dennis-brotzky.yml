@@ -1,12 +1,9 @@
-name: Dennis Brotzky
+name: Thiago Luiz Silva
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: ./avatars/dennis-brotzky.jpg
-social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
 featured: true
+avatar: avatars/avatar2.jpeg
+social:
+  - https://github.com/thluiz
+  - https://twitter.com/artthluiz/
