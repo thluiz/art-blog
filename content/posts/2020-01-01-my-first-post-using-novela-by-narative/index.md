@@ -1,8 +1,9 @@
 ---
 title: My first post using Novela by Narative
-author: Dennis Brotzky
+author: Thiago Luiz Silva
 date: 2019-04-30
 hero: ./images/hero.jpg
+secret: true
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 

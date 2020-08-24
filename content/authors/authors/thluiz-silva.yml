@@ -5,5 +5,5 @@ bio: |
 featured: true
 avatar: avatars/avatar2.jpeg
 social:
-  - https://github.com/thluiz
-  - https://twitter.com/artthluiz/
+  - url: https://github.com/thluiz
+  - url: https://twitter.com/artthluiz/

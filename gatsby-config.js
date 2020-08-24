@@ -1,39 +1,27 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Descobrindo por acaso...`,
+    name: `Serendipidade`,
+    siteUrl: `https://arte.thluiz.com`,
+    description: `Tirinhas aleatórias descobrindo coisas por acaso`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Bem-vindo!<br />Aproveite as descobertas`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/artthluiz`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+        url: `https://github.com/thluiz`,
+      }
     ],
   },
   plugins: [
     {
-      resolve: "@narative/gatsby-theme-novela",
+      resolve: "gatsby-theme-operetta",
       options: {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
@@ -48,8 +36,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Descobrindo por acaso...`,
+        short_name: `Serendipidade`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
