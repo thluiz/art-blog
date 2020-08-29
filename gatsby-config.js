@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://arte.thluiz.com`,
     description: `Tirinhas aleatórias descobrindo coisas por acaso`,
     hero: {
-      heading: `Bem-vindo!<br />Aproveite as descobertas`,
+      heading: `Aproveite as descobertas`,
       maxWidth: 652,
     },
     social: [

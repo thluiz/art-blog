@@ -1,4 +1,6 @@
 import React from 'react';
+
+// Created with Inkscape (http://www.inkscape.org/)
 import cloud from './cloud.png'; 
 
 /**
@@ -7,7 +9,7 @@ import cloud from './cloud.png';
  * It is recommended to keep the height within 25-35px.
  */
 export default function Logo() {
-  // Created with Inkscape (http://www.inkscape.org/)
+  
 
   return (
       <img src={cloud}  />
