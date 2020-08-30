@@ -1,16 +1,16 @@
 ---
-title: Raposa Adormecida
+title: China
 author: Thiago Luiz Silva
-date: 2017-10-01
+date: 2017-11-22
 hero: ./hero.jpg
-excerpt: Sleeping Foxy
+excerpt: Aquarela monocromática sobre algumas fotos da china
 ---
 
 
 <div className="Image__Small">
   <img
-    src="./2017-10-01-sleeping-foxy.jpeg"
-    title="Sleeping Foxy"
-    alt="Uma raposa adormecida"
+    src="./2017-11-22-china.jpeg"
+    title="China"
+    alt="Aquarela monocromática sobre algumas fotos da china"
   />
 </div>

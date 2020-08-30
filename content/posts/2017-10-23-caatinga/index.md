@@ -1,16 +1,16 @@
 ---
-title: Raposa Adormecida
+title: Caatinga
 author: Thiago Luiz Silva
-date: 2017-10-01
+date: 2017-10-23
 hero: ./hero.jpg
-excerpt: Sleeping Foxy
+excerpt: Uma aquarela sobre um local quase sem água
 ---
 
 
 <div className="Image__Small">
   <img
-    src="./2017-10-01-sleeping-foxy.jpeg"
-    title="Sleeping Foxy"
-    alt="Uma raposa adormecida"
+    src="./2017-10-23-caatinga.jpeg"
+    title="Caatinga"
+    alt="Uma aquarela sobre um lugar bem seco... não sei se tem grama na Caatinga, preciso checar"
   />
 </div>

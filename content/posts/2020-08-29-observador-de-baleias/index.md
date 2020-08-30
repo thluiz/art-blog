@@ -1,16 +1,16 @@
 ---
-title: Raposa Adormecida
+title: Observador de Baleias
 author: Thiago Luiz Silva
-date: 2017-10-01
+date: 2020-08-29 10:00
 hero: ./hero.jpg
-excerpt: Sleeping Foxy
+excerpt: Animais fantásticos e onde habitam
 ---
 
 
 <div className="Image__Small">
   <img
-    src="./2017-10-01-sleeping-foxy.jpeg"
-    title="Sleeping Foxy"
-    alt="Uma raposa adormecida"
+    src="./2020-08-29-observador-de-baleias.jpg"
+    title="Observador de Baleias"
+    alt="É bom velas navegando no... céu?"
   />
 </div>

@@ -1,16 +1,16 @@
 ---
-title: Raposa Adormecida
+title: Corre galera!
 author: Thiago Luiz Silva
-date: 2017-10-01
+date: 2020-08-29 14:00
 hero: ./hero.jpg
-excerpt: Sleeping Foxy
+excerpt: Tem hora que só resta isso
 ---
 
 
 <div className="Image__Small">
   <img
-    src="./2017-10-01-sleeping-foxy.jpeg"
-    title="Sleeping Foxy"
-    alt="Uma raposa adormecida"
+    src="./2020-08-29-corre-galera.jpg"
+    title="Corre galera"
+    alt="Uma aranha em seu ninho"
   />
 </div>

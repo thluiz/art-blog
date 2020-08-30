@@ -1,16 +1,16 @@
 ---
-title: Raposa Adormecida
+title: Por do sol
 author: Thiago Luiz Silva
-date: 2017-10-01
+date: 2017-10-24
 hero: ./hero.jpg
-excerpt: Sleeping Foxy
+excerpt: Um por do sol em algum outro planeta
 ---
 
 
 <div className="Image__Small">
   <img
-    src="./2017-10-01-sleeping-foxy.jpeg"
-    title="Sleeping Foxy"
-    alt="Uma raposa adormecida"
+    src="./2017-10-24-red-sun.jpeg"
+    title="Red Sun"
+    alt="Um por do sol em algum outro planeta - talvez cripton"
   />
 </div>

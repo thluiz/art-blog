@@ -1,16 +1,24 @@
 ---
-title: Raposa Adormecida
+title: William, Cleide e Horácio
 author: Thiago Luiz Silva
-date: 2017-10-01
+date: 2020-08-29 12:00
 hero: ./hero.jpg
-excerpt: Sleeping Foxy
+excerpt: William, o peixe boi, e as baleias Cleide e Horácio
 ---
 
 
 <div className="Image__Small">
   <img
-    src="./2017-10-01-sleeping-foxy.jpeg"
-    title="Sleeping Foxy"
-    alt="Uma raposa adormecida"
+    src="./2020-08-29-william-cleide-horacio.jpg"
+    title="William, o peixe boi, e as baleias Cleide e Horácio"
+    alt="William, o peixe boi, e as baleias Cleide e Horácio"
+  />
+</div>
+
+<div className="Image__Small">
+  <img
+    src="./2020-08-29-william.jpg"
+    title="Perfil sereno do William"
+    alt="Perfil sereno do William"
   />
 </div>
