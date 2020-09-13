@@ -7,7 +7,7 @@ excerpt: William, o peixe boi, e as baleias Cleide e Horácio
 ---
 
 
-<div className="Image__Small">
+<div className="Image__Medium">
   <img
     src="./2020-08-29-william-cleide-horacio.jpg"
     title="William, o peixe boi, e as baleias Cleide e Horácio"
@@ -15,7 +15,7 @@ excerpt: William, o peixe boi, e as baleias Cleide e Horácio
   />
 </div>
 
-<div className="Image__Small">
+<div className="Image__Medium">
   <img
     src="./2020-08-29-william.jpg"
     title="Perfil sereno do William"
